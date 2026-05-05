@@ -1,8 +1,6 @@
 # C-Programming-Coursera-Projects
 Projects from Coursera "C for Everyone" course (2026)
 
-# C Programming Coursera Projects
-
 These are all the projects I completed while taking **"C for Everyone: Programming Fundamentals"** on Coursera in 2026.
 
 Currently learning **C# + Unity** for game development in the Gatineau/Ottawa area.
