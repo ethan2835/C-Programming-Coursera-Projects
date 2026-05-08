@@ -1,0 +1,14 @@
+#include<stdio.h>
+#define PI 3.14159
+
+int main(void)
+{ 
+ double radius;
+ printf("Enter radius: ");
+ scanf("%lf", &radius); // Use %lf for double input
+
+ // Use %f or %lf for output, and use 4.0/3.0 to ensure precision
+ printf("volume is : %f \n\n", 4.0 * PI * radius * radius * radius / 3.0 );
+
+ return 0;
+}
