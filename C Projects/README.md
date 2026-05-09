@@ -1,10 +1,15 @@
 # C Programming Projects - Coursera
 
+**C for Everyone, Part 1: Programming Fundamentals Certification: (https://www.coursera.org/account/accomplishments/verify/OR2QWKU2MZ2J)**  
+**UC Santa Cruz (Coursera)** — Completed May 8, 2026
+
+---
+
 This repository contains **all ~30 projects** I completed while taking **"C for Everyone: Programming Fundamentals"** on Coursera in 2026.
 
 ### Current Focus
-- Learning **C# + Unity** for game development
-- Building a strong portfolio for junior Unity / C# roles in the Gatineau / Ottawa area
+- Learning **C# + Unity** for game development  
+- Building a strong portfolio for junior Unity / C# roles in the **Gatineau / Ottawa** area
 
 ### Projects
 - Basic Game conditions
@@ -21,7 +26,7 @@ This repository contains **all ~30 projects** I completed while taking **"C for 
 - First Program
 - Fix Dr P's Mistakes
 - Floating Point Basics
-- Foat Precision for My PC
+- **Float** Precision for My PC
 - Fundamental Types INT
 - Fundamental Types Declaration and Assignment
 - Fundamental Types sizeof Operator
@@ -42,14 +47,22 @@ This repository contains **all ~30 projects** I completed while taking **"C for 
 - Use of Simple Arrays
 - While-cnt-char-explained
 
-Total: **30+ small C/C++ console programs**
+**Total: 30+ small C/C++ console programs**
 
-Feel free to browse the code!  
-I'm currently working on the **C# Programming for Unity Game Development Specialization** (University of Colorado).
+Feel free to browse the code!
 
 ---
 
-**Connect with me:**
-- Indeed: https://profile.indeed.com/p/ethanem-0p8ujh4
-- Email: thrasherboy8@protonmail.com
-- Currently based in Gatineau, QC
+### Currently Working On
+**C# Programming for Unity Game Development Specialization**  
+University of Colorado System (Coursera)
+
+### Other Technical Experience
+- Set up and maintained a **Kyber dedicated server** for Star Wars Battlefront II using **Docker** on Linux (dual-boot setup with VirtualBox)
+
+---
+
+### Connect with me
+- **Indeed Resume**: (https://profile.indeed.com/p/ethanem-0p8ujh4)
+- **Email**: thrasherboy8@protonmail.com
+- **Location**: Gatineau, QC
